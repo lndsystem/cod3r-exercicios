@@ -1,6 +1,8 @@
 export default function list() {
-
-    return (
-        <span>1</span>
-    )
+  return (
+    <div>
+      <span>1,</span>
+      <span>2,</span>
+    </div>
+  );
 }
